@@ -5,9 +5,11 @@ body{
     background-color: antiquewhite;
     padding: 50px ;
     /* margin-left: auto;
-    margin-right: auto; */
+    margin-right: auto;  */
     margin-top: 150px;
     margin: 150px;
+    width: 600px;
+    margin-left: 350px;
     
 }
 #btn{
